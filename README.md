@@ -1,3 +1,3 @@
 # JAVA-Aulas
 
-Este repositorio contem projetos e atividades feitas em sala de aula.
+Este repositório contem projetos e atividades feitas em sala de aula.
